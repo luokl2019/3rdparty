@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "3fd6c147656a9ff308546b1f30171f3f",
+    "content-hash": "836957383d033fe1bad0d9aa70b37a94",
     "packages": [
         {
             "name": "aws/aws-sdk-php",
@@ -222,25 +222,25 @@
         },
         {
             "name": "deepdiver1975/tarstreamer",
-            "version": "v0.1.0",
+            "version": "2.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/owncloud/TarStreamer.git",
-                "reference": "859a0170de120c66b042e6c0dbc1a9979c74669b"
+                "reference": "ad48505d1ab54a8e94e6b1cc5297bbed72e956de"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/owncloud/TarStreamer/zipball/859a0170de120c66b042e6c0dbc1a9979c74669b",
-                "reference": "859a0170de120c66b042e6c0dbc1a9979c74669b",
+                "url": "https://api.github.com/repos/owncloud/TarStreamer/zipball/ad48505d1ab54a8e94e6b1cc5297bbed72e956de",
+                "reference": "ad48505d1ab54a8e94e6b1cc5297bbed72e956de",
                 "shasum": ""
             },
             "require": {
-                "php": ">=5.3.8"
+                "php": ">=7.1"
             },
             "require-dev": {
                 "pear/archive_tar": "~1.4",
-                "pear/pear-core-minimal": "v1.10.0alpha2",
-                "phpunit/phpunit": "^4.8"
+                "pear/pear-core-minimal": "v1.10.10",
+                "phpunit/phpunit": "^7.5"
             },
             "type": "library",
             "autoload": {
@@ -260,7 +260,7 @@
                 "stream",
                 "tar"
             ],
-            "time": "2016-02-15T10:52:44+00:00"
+            "time": "2020-01-08T09:55:35+00:00"
         },
         {
             "name": "doctrine/annotations",
@@ -1473,7 +1473,7 @@
             "time": "2015-08-01T16:27:37+00:00"
         },
         {
-            "name": "jeremeamia/SuperClosure",
+            "name": "jeremeamia/superclosure",
             "version": "2.4.0",
             "source": {
                 "type": "git",
